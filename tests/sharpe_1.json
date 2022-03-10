@@ -1,0 +1,23 @@
+{
+  "source": "https://web.stanford.edu/~wfsharpe/ws/ws_opt.htm",
+  "notes": "Default problem: cash bonds stocks; produces the 40/60 bond/stock portfolio",
+
+  "Correlation": [[1.00, 0.40, 0.15], [0.40, 1.00, 0.35], [0.15, 0.35, 1.00]],
+  "Standard Deviation": [0.01, 0.074, 0.154],
+  "Expected Return": [2.8, 6.3, 10.8],
+  "Risk Tolerance - scale Exp. Ret by this/2": 50,
+
+  "G": [[1.000, 2.960, 2.310], [2.960, 54.76, 39.886], [2.310, 39.886, 237.16]],
+  "a": [70, 157.5, 270],
+  "C": [[1 1 0 0], [1 0 1 0], [1 0 0 1]],
+  "b": [1 0 0 0],
+  "meq": 1,
+  "factorized": false,
+
+  "solution": [0, 0.399598393574289723, 0.600401606425702283],
+  "value": -168.357777108433453,
+  "unconstrained.solution": [ 73.0713167704348194,  -1.5777103919775084, 0.692080515072990732]
+  "iterations": [3, 0],
+  "Lagrangian": [-111.670373493976228,  44.2401124497995184, 0, 0]
+  "iact": [1, 2]
+}

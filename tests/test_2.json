@@ -1,0 +1,15 @@
+{
+    "source": "github quadprog tests",
+    "notes": "extracted test_2 in test_1.py, no solution provided",
+
+    "G": [[1, 0, 0], [0, 1, 0], [0, 0, 1]],
+    "a": [0, 0, 0],
+    "meq": 0,
+    "factorized": false,
+    "solution": [0, 0, 0],
+    "value": 0,
+    "unconstrained.solution": [0, 0, 0],
+    "iterations": [1, 0],
+    "Lagrangian": [],
+    "iact": []
+}

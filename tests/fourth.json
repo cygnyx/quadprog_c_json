@@ -1,0 +1,16 @@
+{
+    "source": "github albertosantini node-quadprog",
+    "notes": "renamed variables from fourth-data.json and fourth-result.json",
+    "G": [[13, 18, -6], [18, 27, -9], [-6, -9, 4]],
+    "a": [-4, 0, -100],
+    "C": [[0], [0], [-1]],
+    "b": [-25],
+    "meq": 1,
+    "factorized": false,
+    "solution": [-4.00000000000002, 11, 25],
+    "value": 2804.5,
+    "unconstrained.solution": [-3.99999999999997, -30.6666666666667, -100],
+    "iterations": [2, 0],
+    "Lagrangian": [125],
+    "iact": [1]
+}

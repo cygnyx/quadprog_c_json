@@ -1,0 +1,17 @@
+{
+    "source": "github quadprog tests",
+    "notes": "extracted test_1 in test_1.py, no solution provided",
+
+    "G": [[1, 0, 0], [0, 1, 0], [0, 0, 1]],
+    "a": [0, 5, 0],
+    "C": [[-4, 2, 0], [-3, 1, -2], [0, 0, 1]],
+    "b": [-8, 2, 0],
+    "meq": 0,
+    "factorized": false,
+    "solution": [0.476190476190476, 1.04761904761905, 2.0952380952381],
+    "value": -2.38095238095238,
+    "unconstrained.solution": [0, 5, 0],
+    "iterations": [3, 0],
+    "Lagrangian": [0, 0.238095238095238, 2.0952380952381],
+    "iact": [3, 2]
+}
