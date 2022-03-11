@@ -1,6 +1,3 @@
-/*
-  gcc -o quadprog quadprog.c && ./quadprog *.json
- */
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
