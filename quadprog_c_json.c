@@ -4,6 +4,7 @@
 #include <string.h>
 #include <math.h>
 
+#define JSMN_STRICT
 #include "jsmn.h"
 #include "qpgen2_.h"
 
